@@ -1,2 +1,3 @@
-# controle-de-estoque-simples--laravel
-# Atividade-av3
+# Atividade AV3
+# ALUNOS: André Luis Pereira Martins, Raissa
+# Turma: SI04N
